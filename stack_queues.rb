@@ -45,7 +45,7 @@ end
 stack = Stack.new(array=[])
 p stack.add(1)
 p stack.add(2)
-p stack.add(3)
+p stack.add(4)
 p stack.remove
 p stack.remove
 
