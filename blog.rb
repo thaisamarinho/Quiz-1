@@ -40,7 +40,7 @@ puts post1.title
 puts post1.body
 
 title2 = "My second poem"
-body2 = "Hello world, my friend"
+body2 = "Hello world, my friend!"
 
 post2 = Snippet.new(title2, body2)
 
